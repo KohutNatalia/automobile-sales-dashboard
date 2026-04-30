@@ -42,3 +42,8 @@ The goal of this project is to turn raw sales data into clear business insights 
 ### Seasonality
 ![Seasonality](screenshots/Seasonality.png)
 
+## How to Run
+
+```bash
+pip install pandas plotly dash
+python app.py
