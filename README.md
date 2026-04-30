@@ -1,6 +1,5 @@
 # automobile-sales-dashboard
 Interactive dashboard for analyzing automobile sales trends and recession impact using Python, Pandas, Plotly, and Dash.
-# Automobile Sales Analysis Dashboard
 
 This project analyzes historical automobile sales data and explores how economic conditions affect automobile sales across different vehicle types.
 
@@ -25,3 +24,12 @@ This project analyzes historical automobile sales data and explores how economic
 
 ## Project Goal
 The goal of this project is to turn raw sales data into clear business insights that can support marketing, sales, and business decision-making.
+## Dashboard Preview
+
+![Sales Comparison](screenshots/recession_vs_non_recession.png)
+
+![Sales Trend](screenshots/sales_over_time.png)
+
+![Advertising Expenditure](screenshots/advertising_pie.png)
+
+![Price vs Sales](screenshots/price_vs_sales.png)
