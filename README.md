@@ -24,14 +24,21 @@ This project analyzes historical automobile sales data and explores how economic
 
 ## Project Goal
 The goal of this project is to turn raw sales data into clear business insights that can support marketing, sales, and business decision-making.
+
 ## Dashboard Preview
 
-![Sales Comparison](screenshots/Sales during Recession vs Non-Recession.png)
+### Sales Comparison
+![Sales Comparison](screenshots/Sales%20during%20Recession%20vs%20Non-Recession.png)
 
-![Sales Trend](screenshots/Automobile Sales over Time.png)
+### Sales Trend
+![Sales Trend](screenshots/Automobile%20Sales%20over%20Time.png)
 
-![Advertising Expenditure](screenshots/Advertising Expenditure.png)
+### Advertising Analysis
+![Advertising](screenshots/Advertising%20Expenditure.png)
 
-![Price vs Sales](screenshots/Price vs Sales.png)
+### Price vs Sales Relationship
+![Price vs Sales](screenshots/Price%20vs%20Sales.png)
 
+### Seasonality
 ![Seasonality](screenshots/Seasonality.png)
+
